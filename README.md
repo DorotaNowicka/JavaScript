@@ -4,4 +4,4 @@ Neurons animation effect done with javascript in two versions:
 * with border to move dots out from the place for text, 
 * representing neuron network: size of dot corresponds to number of connections of the node with color from generating gradient palete.
 
-![Alt text](/posts/path/to/img.jpg "Optional title") ![Alt text](/posts/path/to/img.jpg "Optional title")
+![Alt text](effect_with_canva.jpg "Optional title") ![Alt text](/posts/path/to/img.jpg "Optional title")
